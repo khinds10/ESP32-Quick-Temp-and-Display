@@ -3,6 +3,22 @@
 
 ![Finished Product](https://github.com/khinds10/ESP32-Quick-Temp-and-Display/blob/main/Construction/5.jpg)
 
+
+#### SUPPLIES
+
+0.91" 128x32 IIC I2C Display
+
+![0.91in-128x32-IIC-I2C](https://github.com/khinds10/ESP32-Quick-Temp-and-Display/blob/main/Construction/0.91in-128x32-IIC-I2C.png)
+
+DHT22
+
+![DHT22](https://github.com/khinds10/ESP32-Quick-Temp-and-Display/blob/main/Construction/DHT22.png)
+
+ESP WROOM 32
+
+![ESP-WROOM-32](https://github.com/khinds10/ESP32-Quick-Temp-and-Display/blob/main/Construction/ESP-WROOM-32.png)
+
+
 ###FLASH ESP32
 
 Checkout the ESP32 Folder to your VSCode with PlatformIO installed as a dependancy.
@@ -30,7 +46,6 @@ to setup a custom datahub for your device to post temps as time goes on.
 Wire and Hot Glue the components.
 
 ![Wiring](https://github.com/khinds10/ESP32-Quick-Temp-and-Display/blob/main/Construction/1.jpg)
-
 
 ###WIRING
 
