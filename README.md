@@ -27,7 +27,7 @@ to setup a custom datahub for your device to post temps as time goes on.
 
 [https://openweathermap.org/](https://openweathermap.org/) account is required, the device will simply read from the default forecast returned from the API, it will also post it to the Datahub.
 
-Wire and Hot Glue the components.
+#### Wire and Hot Glue the components.
 
 ![Wiring](https://github.com/khinds10/ESP32-Quick-Temp-and-Display/blob/main/Construction/1.jpg)
 
